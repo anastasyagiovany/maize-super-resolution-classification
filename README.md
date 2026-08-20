@@ -49,9 +49,6 @@ maize-super-resolution-classification/
 │   ├── 03_SR_Image_Generation.ipynb
 │   └── 04_Fall_Armyworm_Classification.ipynb
 │
-├── data/
-│   └── README.md
-│
 └── README.md
 ```
 
