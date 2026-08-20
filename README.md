@@ -36,9 +36,9 @@ flowchart TD
     K --> L[EfficientNetB1]
     K --> M[ResNet50]
     K --> N[MobileNetV3Large]
+```
 
-
-    ## Project Structure
+## Project Structure
 
 ```text
 maize-super-resolution-classification/
@@ -53,7 +53,7 @@ maize-super-resolution-classification/
 │   └── README.md
 │
 └── README.md
-
+```
 
 ## Dataset
 
